@@ -74,7 +74,13 @@
     * https://www.youtube.com/watch?v=U8ZGVx1NmQg
     * https://www.youtube.com/watch?v=3JMhX1sT98U
   * PostGis 
+    * https://postgis.net/workshops/postgis-intro/
+    * https://learnsql.com/course/postgis
+    * https://www.youtube.com/watch?v=hMn74o11wdk
   * Snowflake
+    * https://www.youtube.com/watch?v=pVd-TTIKPno
+    * https://www.youtube.com/watch?v=dxrEHqMFUWI
+    * https://www.youtube.com/watch?v=iOsMbqIDPss&list=PL4IM5KTx_T7jZgGzbHN2tkumTNc2vgtmq
     
 **Useful URL's** : 
   * youtube.com/watch?v=pomxJOFVcQs&list=PLQnljOFTspQXjD0HOzN7P2tgzu7scWpl2
