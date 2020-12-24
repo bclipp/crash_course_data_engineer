@@ -47,7 +47,7 @@
   * Query Optimization
   * Postgresql, MongoDB, Elasticsearch, Redis, Kafka, Cassandra, Neo4j, PostGis 
     
-**Useful URL's* : youtube.com/watch?v=pomxJOFVcQs&list=PLQnljOFTspQXjD0HOzN7P2tgzu7scWpl2
+**Useful URL's** : youtube.com/watch?v=pomxJOFVcQs&list=PLQnljOFTspQXjD0HOzN7P2tgzu7scWpl2
 
 3. Apache Spark
   * Core
