@@ -37,8 +37,8 @@
       * https://www.youtube.com/watch?v=tR_rOJPiEXc
       * https://www.youtube.com/watch?v=QpdhBUYk7Kk
     * MongoDB:
-     * https://www.youtube.com/watch?v=yuPjoC3jmPA
-     * https://www.youtube.com/watch?v=DUCvYbcgGsQ
+      * https://www.youtube.com/watch?v=yuPjoC3jmPA
+      * https://www.youtube.com/watch?v=DUCvYbcgGsQ
   * Data Warehousing
     * https://www.youtube.com/watch?v=J326LIUrZM8
     * https://www.youtube.com/watch?v=lWPiSZf7-uQ
@@ -67,3 +67,10 @@ Useful URL's: youtube.com/watch?v=pomxJOFVcQs&list=PLQnljOFTspQXjD0HOzN7P2tgzu7s
 * Rest
 * gRPC
 * Agile
+* Git:
+  * https://www.youtube.com/watch?v=__cR7uPBOIk 
+  * https://www.youtube.com/watch?v=SWYqp7iY_Tc
+  * https://www.youtube.com/watch?v=CRlGDDprdOQ
+* Writing Readme
+  * https://www.udacity.com/course/writing-readmes--ud777
+  * Markdown: https://www.youtube.com/watch?v=HUBNt18RFbo
