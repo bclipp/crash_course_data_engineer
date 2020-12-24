@@ -54,6 +54,8 @@
   * Data Warehousing
     * https://www.youtube.com/watch?v=J326LIUrZM8
     * https://www.youtube.com/watch?v=lWPiSZf7-uQ
+    * https://www.youtube.com/watch?v=uVaSFBeU71s
+    * https://www.youtube.com/watch?v=DV4IMjnL_IU&list=PLPhtPwFG9i7sJmGzzwMUCcbGR4YCWEvQx
   * feature store: https://www.youtube.com/watch?v=TPuqyNJX7T4
   * Replication
   * Query Optimization
