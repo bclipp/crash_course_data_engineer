@@ -65,6 +65,7 @@
     * https://www.youtube.com/watch?v=U8ZGVx1NmQg
     * https://www.youtube.com/watch?v=3JMhX1sT98U
   * PostGis 
+  * Snowflake
     
 **Useful URL's** : 
   * youtube.com/watch?v=pomxJOFVcQs&list=PLQnljOFTspQXjD0HOzN7P2tgzu7scWpl2
@@ -84,6 +85,10 @@
 * IAM
 * EC2
 * Lambda
+* networking (VPC, Subnets,NAT)
+* Athena
+* EMR
+* Redshift
 
 5. Misc
 * Unix/Linux Command Line
