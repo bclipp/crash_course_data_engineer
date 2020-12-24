@@ -58,7 +58,7 @@
     * https://www.youtube.com/watch?v=8r_IMTerZSY
     * https://www.youtube.com/watch?v=poERWnPrscc
   * Redis:
-   * https://www.youtube.com/watch?v=3gIUm5QTi3k
+    * https://www.youtube.com/watch?v=3gIUm5QTi3k
   * Kafka
     * https://www.youtube.com/watch?v=R873BlNVUB4Cassandra
   * Neo4j
@@ -87,9 +87,15 @@
 
 5. Misc
 * Unix/Linux Command Line
-* Docker
-* Rest
-* gRPC
+  * https://www.youtube.com/watch?v=3DA1grSp4mU
+  * https://www.youtube.com/watch?v=yCTnihfbPCo
+* Bash: https://www.youtube.com/watch?v=e7c0TkSF3YI
+* Docker: https://www.youtube.com/watch?v=d-PPOS-VsC8
+* Rest: 
+  * https://www.youtube.com/watch?v=lsMQRaeKNDk
+  * FastAPI/Python: https://www.youtube.com/watch?v=1zMQBe0l1bM
+* gRPC:
+  * https://www.youtube.com/watch?v=XRXTsQwyZSU
 * Agile
 * Git:
   * https://www.youtube.com/watch?v=__cR7uPBOIk 
