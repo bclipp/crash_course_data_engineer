@@ -30,12 +30,12 @@
     * https://www.youtube.com/watch?v=82wuPR5exmM
   * Data Modeling (Relational and Non)
     * relational:
-     * https://www.youtube.com/watch?v=adYohKb47f8
-     * https://www.youtube.com/watch?v=RJ9TpkWKyU0&t=576s
-     * https://www.youtube.com/watch?v=RAytZ_dOAyg
-     * https://www.youtube.com/watch?v=y2DD8tAjM0E&t=160s
-     * https://www.youtube.com/watch?v=tR_rOJPiEXc
-     * https://www.youtube.com/watch?v=QpdhBUYk7Kk
+      * https://www.youtube.com/watch?v=adYohKb47f8
+      * https://www.youtube.com/watch?v=RJ9TpkWKyU0&t=576s
+      * https://www.youtube.com/watch?v=RAytZ_dOAyg
+      * https://www.youtube.com/watch?v=y2DD8tAjM0E&t=160s
+      * https://www.youtube.com/watch?v=tR_rOJPiEXc
+      * https://www.youtube.com/watch?v=QpdhBUYk7Kk
     * MongoDB:
      * https://www.youtube.com/watch?v=yuPjoC3jmPA
      * https://www.youtube.com/watch?v=DUCvYbcgGsQ
