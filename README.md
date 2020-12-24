@@ -72,6 +72,8 @@ Useful URL's: youtube.com/watch?v=pomxJOFVcQs&list=PLQnljOFTspQXjD0HOzN7P2tgzu7s
   * https://www.youtube.com/watch?v=__cR7uPBOIk 
   * https://www.youtube.com/watch?v=SWYqp7iY_Tc
   * https://www.youtube.com/watch?v=CRlGDDprdOQ
+  * https://rebase-book.com/
+  * https://www.youtube.com/watch?v=ElRzTuYln0M&t=357s
 * Writing Readme
   * https://www.udacity.com/course/writing-readmes--ud777
   * Markdown: https://www.youtube.com/watch?v=HUBNt18RFbo
