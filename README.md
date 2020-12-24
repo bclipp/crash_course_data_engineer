@@ -56,6 +56,7 @@
     * https://www.youtube.com/watch?v=lWPiSZf7-uQ
     * https://www.youtube.com/watch?v=uVaSFBeU71s
     * https://www.youtube.com/watch?v=DV4IMjnL_IU&list=PLPhtPwFG9i7sJmGzzwMUCcbGR4YCWEvQx
+    * https://www.youtube.com/watch?v=oF_2uDb7DvQ
   * feature store: https://www.youtube.com/watch?v=TPuqyNJX7T4
   * Replication
   * Query Optimization
