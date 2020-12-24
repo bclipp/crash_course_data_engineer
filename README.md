@@ -57,7 +57,8 @@
   * Elasticsearch
     * https://www.youtube.com/watch?v=8r_IMTerZSY
     * https://www.youtube.com/watch?v=poERWnPrscc
-  * Redis
+  * Redis:
+   * https://www.youtube.com/watch?v=3gIUm5QTi3k
   * Kafka
     * https://www.youtube.com/watch?v=R873BlNVUB4Cassandra
   * Neo4j
