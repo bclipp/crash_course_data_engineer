@@ -108,7 +108,29 @@
 * EMR
 * Redshift
 
-5. Misc
+5. Airflow
+  * https://www.youtube.com/watch?v=niJ063dV5nA
+  * https://www.youtube.com/watch?v=AHMm1wfGuHE&list=PLYizQ5FvN6pvIOcOd6dFZu3lQqc6zBGp2
+
+5. Desgin Patterns
+* Data Lake:
+  * https://datavaultalliance.com/news/defining-a-data-lake/
+  * https://www.youtube.com/watch?v=LxcH6z8TFpI
+  * https://www.youtube.com/watch?v=RyaB04jSqwk
+  * https://www.youtube.com/watch?v=CIgxFFfgO_0
+* Data Mesh
+  * https://www.youtube.com/watch?v=MBF0Wg7rFV8&t=1272s
+  * https://www.youtube.com/watch?v=TO_IiN06jJ4
+  * https://www.youtube.com/watch?v=hVqmXH_DLHQ&t=1198s
+  * https://www.youtube.com/watch?v=hVqmXH_DLHQ&t=1198s
+  
+* Distribyted Data lakes
+  * https://www.youtube.com/watch?v=mnvxeU3oDyQ
+  
+* Lake House:https://www.youtube.com/watch?v=yumysN3XwbQ
+
+
+6. Misc
 * Unix/Linux Command Line
   * https://www.youtube.com/watch?v=3DA1grSp4mU
   * https://www.youtube.com/watch?v=yCTnihfbPCo
