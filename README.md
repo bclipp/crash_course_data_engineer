@@ -4,7 +4,8 @@
 * IDE
   * PyCharm: https://www.youtube.com/watch?v=hK9-_s55CBY
   * Datagrip: https://www.youtube.com/watch?v=Xb9K8IAdZNg
-  * Intelj: https://www.youtube.com/watch?v=yefmcX57Eyg
+  * Intellij: https://www.youtube.com/watch?v=yefmcX57Eyg
+  * Scala Intellij: https://www.youtube.com/watch?v=u7AB93RtApg
 * Python: 
   * https://www.youtube.com/watch?v=ie-hjFXlxTs
   * https://realpython.com/
