@@ -34,6 +34,7 @@
     * BJSON: https://scalegrid.io/blog/using-jsonb-in-postgresql-how-to-effectively-store-index-json-data-in-postgresql/
     * foreign data wrapper: https://www.enterprisedb.com/postgres-tutorials/using-foreign-data-wrappers-access-remote-postgresql-and-oracle-databases
     * https://www.youtube.com/watch?v=GTeCtIoV2Tw&list=PLQnljOFTspQWGrOqslniFlRcwxyY94cjj
+    *https://www.whoishostingthis.com/resources/postgresql/
   * ACID: https://youtu.be/pomxJOFVcQs
   * CAP: 
     * https://www.youtube.com/watch?v=k-Yaq8AHlFA
