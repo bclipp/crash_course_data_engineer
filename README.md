@@ -19,9 +19,15 @@
 * Functional Programming
   * FP with Scala: https://www.coursera.org/learn/progfun1
 2. Data Stores
-* SQL
-* ACID
-* CAP
+* SQL 
+ * https://www.udemy.com/course/the-complete-sql-bootcamp/
+ * stored proc: https://carto.com/help/working-with-data/sql-stored-procedures/
+ * BJSON: https://scalegrid.io/blog/using-jsonb-in-postgresql-how-to-effectively-store-index-json-data-in-postgresql/
+ * foreign data wrapper: https://www.enterprisedb.com/postgres-tutorials/using-foreign-data-wrappers-access-remote-postgresql-and-oracle-databases
+* ACID: https://youtu.be/pomxJOFVcQs
+* CAP: 
+  * https://www.youtube.com/watch?v=k-Yaq8AHlFA
+  * https://www.youtube.com/watch?v=82wuPR5exmM
 * Data Modeling (Relational and Non)
 * Data Warehousing
 * Replication
