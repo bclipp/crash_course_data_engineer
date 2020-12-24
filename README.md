@@ -18,6 +18,10 @@
   * scala: https://www.youtube.com/watch?v=sby4rxdmabI
 * Functional Programming
   * FP with Scala: https://www.coursera.org/learn/progfun1
+* system design:https://www.udemy.com/course/fundamentals-of-high-level-system-design/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-CITpii2fDP4.dECCJtpXTQ&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads
+* https://www.educative.io/courses/grokking-the-system-design-interview?affiliate_id=5073518643380224
+* Algorithms: https://www.coursera.org/specializations/algorithms
+* C4 digrams : https://medium.com/better-programming/modeling-software-architecture-with-c4-243eb1f240c7
 2. Data Stores
   * SQL 
     * https://www.udemy.com/course/the-complete-sql-bootcamp/
