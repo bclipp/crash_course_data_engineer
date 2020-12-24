@@ -54,6 +54,7 @@ Useful URL's: youtube.com/watch?v=pomxJOFVcQs&list=PLQnljOFTspQXjD0HOzN7P2tgzu7s
   * Structured Streaming
   * Delta Lake
   * rdd (optional)
+  * UDF
   
 4. AWS
 * S3
