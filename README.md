@@ -61,7 +61,8 @@
   * feature store: https://www.youtube.com/watch?v=TPuqyNJX7T4
   * Replication
   * Query Optimization
-  * Postgresql,
+  * Postgresql:
+    * https://www.youtube.com/watch?v=Ko0ldsIgJ7o
   * MongoDB 
     * https://www.youtube.com/watch?v=0XJO0Xorx2I
     * https://www.youtube.com/watch?v=xZgI8VwGWqk
