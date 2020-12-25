@@ -101,14 +101,15 @@
   * UDF
   
 4. AWS
-* S3
-* IAM
-* EC2
-* Lambda
-* networking (VPC, Subnets,NAT)
-* Athena
-* EMR
-* Redshift
+  * S3
+  * IAM
+  * EC2
+  * Lambda
+  * networking (VPC, Subnets,NAT)
+  * Athena
+  * EMR
+  * Redshift
+  * RDS
 
 5. Airflow
   * https://www.youtube.com/watch?v=niJ063dV5nA
@@ -131,8 +132,11 @@
   
 * Lake House:https://www.youtube.com/watch?v=yumysN3XwbQ
 
+6. MLOps:
+  * https://towardsdatascience.com/the-3-best-free-online-resources-to-learn-mlops-54816904f485
+  * https://www.mlflow.org/docs/latest/tutorials-and-examples/index.html
 
-6. Misc
+7. Misc
 * Unix/Linux Command Line
   * https://www.youtube.com/watch?v=3DA1grSp4mU
   * https://www.youtube.com/watch?v=yCTnihfbPCo
