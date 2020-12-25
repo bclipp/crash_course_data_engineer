@@ -95,7 +95,8 @@
   * Core
   * Dataframe API
   * Structured Streaming
-  * Delta Lake
+  * Delta Lake 
+    * https://medium.com/swlh/what-is-and-why-delta-lake-how-change-data-capture-cdc-gets-benefits-from-delta-lake-fb177bdab8bc
   * rdd (optional)
   * UDF
   
