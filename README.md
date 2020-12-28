@@ -73,6 +73,7 @@
     * https://www.youtube.com/watch?v=poERWnPrscc
   * Redis:
     * https://www.youtube.com/watch?v=3gIUm5QTi3k
+    * https://www.youtube.com/watch?v=sVCZo5B8ghE
   * Kafka
     * https://www.youtube.com/watch?v=R873BlNVUB4Cassandra
   * Neo4j
